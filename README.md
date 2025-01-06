@@ -8,7 +8,7 @@ I am just starting my way in programming and I would be glad if you would pay at
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [dimafofanov87@gmail.com](mailto:dimafofanov87@gmail.com)
-* 🧠  I'm learning computer vision
+* 🧠  I'm learning web development
 * 🤝  I'm open to collaborating on any projects
 * ⚡  I really like learning new things.
 
