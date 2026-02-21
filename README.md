@@ -1,27 +1,44 @@
 # 💫 About Me:
 A developer from Russia. <br>I like to learn something new.
 
-
 ## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28280521/fussymarmot) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fussymarmot) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dimafofanov64@gmail.com) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28280521/fussymarmot) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fussymarmot) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dimafofanov64@gmail.com) 
+
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat-square&logo=gunicorn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat-square&logo=Aseprite&logoColor=#7D929E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<hr>
+
+## 🌐 Languages:
+[![Languages](https://skillicons.dev/icons?i=cs,py,js,html,css,bash,md)](https://skillicons.dev)
+
+## 🔧 Frameworks and Libraries
+[![Frameworks and Libraries](https://skillicons.dev/icons?i=django,fastapi,flask)](https://skillicons.dev)
+
+## 💾 Databases
+[![Databases](https://skillicons.dev/icons?i=sqlite,mysql)](https://skillicons.dev)
+
+## 🎨 Design
+[![Design](https://skillicons.dev/icons?i=ps,ai,blender)](https://skillicons.dev)
+
+## 🗄️ Servers
+[![Servers](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Gunicorn</title><path d="M10.145 20.014c-.266-.085-.267-.122-.022-.865.244-.743.132-1.432-.32-1.974-.617-.737-.914-1.366-1.009-2.135-.08-.66-.107-.713-.376-.764-.18-.035-.43.034-1.023.281-.864.36-1.07.52-1.273.98-.108.242-.12.387-.06.667.075.342.378.892.494.893.03 0 .196.114.368.252.287.23.307.27.225.458-.176.408-.595.902-.764.902-.095 0-.482-.272-.91-.637-.836-.717-.872-.79-.96-1.965-.1-1.403.244-2.058 1.78-3.375l.964-.827.062-.5c.063-.518-.026-1.748-.177-2.427-.09-.4-.382-.783-.66-.86-.303-.084-.48.09-.712.694-.25.654-.486.882-.92.882-.27 0-.52-.173-.694-.477C4.033 9 3.96 7.691 4.035 7.002c.036-.33.038-.666.005-.745-.054-.128-.52-.405-1.62-.962a4.343 4.343 0 0 1-.518-.303 3.053 3.053 0 0 0-.49-.267C.994 4.54-.095 3.903.007 3.903c.193 0 1.01.252 1.446.445.266.118.52.215.565.215.045 0 .558.165 1.14.366.58.202 1.111.367 1.18.367.16 0 .185-.14.134-.746-.024-.275-.023-.5.002-.5s.132.053.238.118c.324.198 1.02.32 1.84.32.783.002 1.806.157 2.196.335.56.254 1.211 1.05 2.036 2.49.574 1.002 1.19 1.426 2.073 1.427.357 0 1.31-.147 2.6-.4 1.063-.21 2.467-.259 3.012-.103.665.19 1.545.7 2.27 1.314.68.576.786.704 1.204 1.468.5.912 1.05 2.207 1.54 3.622.07.202.216.54.326.753.294.568.28.603-.255.603-.58 0-.853-.092-1.233-.415-.365-.31-.46-.5-1.032-2.05-.292-.796-.577-1.273-.76-1.273-.124 0-.376.852-.376 1.273 0 .3.187.702.67 1.447.788 1.21 1.202 2.922 1.036 4.28l-.07.586-.526.022c-.825.034-.817.046-.817-1.135 0-1.257-.085-1.529-.64-2.035-.23-.21-.748-.81-1.149-1.33-.402-.52-.786-.946-.854-.946-.158 0-.236.428-.244 1.332-.006.595-.03.696-.205.88-.476.497-.81 1.403-1.016 2.754-.046.3-.085.355-.279.398-.285.064-1.075.075-1.143.015-.059-.05.044-.863.278-2.19.088-.504.185-1.18.214-1.503.053-.574-.065-1.65-.204-1.867-.058-.09-.353-.11-1.732-.116-.915-.003-1.918-.033-2.23-.066l-.565-.06v.25c0 .27.07.506.53 1.822.162.464.397 1.17.523 1.57l.227.728-.192.592a6.11 6.11 0 0 1-.348.867c-.152.266-.17.274-.595.27a2.97 2.97 0 0 1-.677-.083z"/></svg>
+
+## 📱 Use os
+[![Os](https://skillicons.dev/icons?i=arch,nix,ubuntu,windows)](https://skillicons.dev)
+
+## 🥅 Other
+[![Other](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tor Project</title><path d="M11.9124 17.1581zM17.9817 1.14a8.419 8.419 0 00-4.4695 3.1196A21.4277 21.4277 0 0116.512 0a12.4187 12.4187 0 00-3.9996 4.3595l.64-2.5497a14.6284 14.6284 0 00-1.8998 5.3494l1.1198.48a33.1264 33.1264 0 015.6094-6.4993zm.82 13.0686c-.82-1.5199-2.9197-3.0097-5.1295-4.3896-.51-.3-.61-1.4098-.53-1.8898l-.5099-.24a6.3693 6.3693 0 00.16 2.3898c.24.75.9999 1.5998 1.5198 2.7997a18.158 18.158 0 01.72 2.9197 13.1686 13.1686 0 01-.54 6.1193 4.2595 4.2595 0 01-1.4298 1.9198l-.24.16c4.1595.13 8.829-4.6295 5.9793-9.789zm-5.3995 4.7894a6.6193 6.6193 0 00-.42-1.9997 12.4087 12.4087 0 00-.7498-1.4399 6.2293 6.2293 0 01-.16-2.0698 6.9992 6.9992 0 00.32 1.9398 11.0788 11.0788 0 01.6899 1.2999 8.999 8.999 0 01.5899 2.2697 10.4289 10.4289 0 01-.35 2.9997 5.1094 5.1094 0 01-.4 1 4.8495 4.8495 0 00.7-1.52 12.4187 12.4187 0 00.36-4.4794 11.6087 11.6087 0 00-.46-1.8898c-.44-1.2-1.0699-2.2298-1.1499-2.4698a16.2082 16.2082 0 01-.39-3.3596 14.3084 14.3084 0 00.44 3.1197c.08.24.8 1.3798 1.2999 2.5797a7.4692 7.4692 0 01.48 1.7298 10.7188 10.7188 0 01-.53 5.1594 3.9996 3.9996 0 01-.35.82 3.7196 3.7196 0 00.8-1.41 16.1382 16.1382 0 000-8.109c-.42-1.2799-1.4099-2.3998-1.6499-3.1697a7.6792 7.6792 0 01-.08-2.3897l-2.1497-1c.56 1.44.6599 2.5598.08 2.9998-2.2598 1.8698-5.9994 3.9995-5.9994 7.1092 0 3.3196 1.9998 6.9092 7.0492 7.1792a12.9986 12.9986 0 01-1.6998-.56 3.4496 3.4496 0 01-1.3098-.8998l-.13-.14A9.339 9.339 0 016.233 18.658a2.7097 2.7097 0 01-.08-1.5199 6.6793 6.6793 0 013.2797-3.9995 10.099 10.099 0 00.9999-.61c.4699-.29.7699-1.5298 1.0798-2.5297-.16.77-.34 2.2598-1.0599 2.8197-.29.22-.6099.43-.9299.64-1.2798.8798-2.5397 1.6998-3.1696 3.8095a2.8197 2.8197 0 00.08 1.3799 9.319 9.319 0 001.9498 3.5096s.13.13.13.16a2.9997 2.9997 0 001.9397 1.1499c-.29-.16-.5299-.35-.7399-.48a4.3595 4.3595 0 01-1.9998-3.5996 3.6996 3.6996 0 012.1798-3.3896 3.5796 3.5796 0 001.6798-2.3798 3.1197 3.1197 0 01-1.5898 2.4998 3.9996 3.9996 0 00-2.0998 3.1696 5.6594 5.6594 0 001.8898 3.3996 4.0796 4.0796 0 001.5898.72 2.8897 2.8897 0 01-.4799-.5 4.9995 4.9995 0 01-.45-.9999 2.9997 2.9997 0 01-.27-.9999 3.5996 3.5996 0 01.64-2.3697 2.8397 2.8397 0 00.9-1.3499 2.8697 2.8697 0 01-.72 1.5099 2.9997 2.9997 0 00-.56 2.2397 4.0596 4.0596 0 00.29.93 3.9996 3.9996 0 00.51.9998c.18.21.26.37.5499.48a6.4793 6.4793 0 00.49-2.3498 9.519 9.519 0 000-1.7598c-.13-.7999-.4-1.5998-.4-2.2397.12.5899.43 1.3798.61 2.2097a5.6294 5.6294 0 01.11 1.7298c0 .56-.08 1-.16 1.4899a1.9998 1.9998 0 01-.45.9299 3.2097 3.2097 0 001.1099-1.9998 7.8991 7.8991 0 00.32-2.3598z"/></svg>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Fussymarmot&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Fussymarmot&theme=shadow_red&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fussymarmot&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=Fussymarmot&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Fussymarmot&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Fussymarmot&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Fussymarmot&icon=9&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔝 Top Contributed Repo
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fussymarmot&show_icons=true&theme=transparent)
