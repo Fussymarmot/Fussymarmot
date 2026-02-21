@@ -8,7 +8,6 @@ A developer from Russia. <br>I like to learn something new.
 
 
 # 💻 Tech Stack:
-<hr>
 
 ## 🌐 Languages:
 [![Languages](https://skillicons.dev/icons?i=cs,py,js,html,css,bash,md)](https://skillicons.dev)
@@ -40,4 +39,4 @@ A developer from Russia. <br>I like to learn something new.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🔝 Top Contributed Repo
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fussymarmot&show_icons=true&theme=transparent)
+![](https://github-contributor-stats.vercel.app/api?username=Fussymarmot&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
